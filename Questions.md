@@ -76,3 +76,43 @@ Use these to gauge the true completion speed and hold the builder accountable to
 • Watch out for: Localized masonry or finishing delays. Walk around the boundaries to check the exact setback distance separating the high-rise structure from neighboring properties.
 
 
+### 📋 THE ULTIMATE LEGAL DOCUMENT CHECKLIST (FROM BOOKING TO POSSESSION)
+
+#### 🛡️ STAGE 1: BOOKING & LEGAL AUDIT (BEFORE GIVING THE 95% DOWNPAYMENT)
+Your lawyer must inspect these documents—preferably in original or certified true copy form—at the site office before any major funds are released.
+
+1. Land Ownership & Title Clearance Docs:
+   • The Mother/Parent Deeds: Continuous 30-to-45-year chain of title ownership.
+   • Joint Development Agreement (JDA): The registered partnership contract between INDIS and Sia Estates.
+   • Supplementary Allocation Agreement: Crucial document proving that Tower B, Floor 7, Unit 6 belongs explicitly to the Builder's saleable share (and not the landowner).
+   • Updated Encumbrance Certificate (EC): A current Form 15 EC showing zero active bank mortgages, liens, or court attachments on the land survey numbers.
+   • NALA Conversion Certificate: Proof that the land was legally converted from agricultural to non-agricultural/residential use.
+
+2. Government Approvals & Safety Clearances:
+   • GHMC Sanction Plan & Building Permit: The official municipal blueprint proving Tower B’s height, floor plans, and layouts are fully approved.
+   • Irrigation Department NOC: Documented proof that the project sits safely outside any FTL lake limits or natural water buffers (ensuring strict HYDRAA compliance).
+   • Active TS-RERA Certificate: Copy of registration number P02400007079.
+   • Fire, Environmental, and Airport Authority NOCs: Vital regulatory clearances mandatory for high-rise execution.
+
+---
+
+#### 📜 STAGE 2: TRANSACTION & AGREEMENT (DEPLOYING THE FUNDS)
+These are the legal instruments executed as your money changes hands.
+
+3. Provisional Allotment Letter: Issued immediately upon your initial token clearance, securing the specific unit and price lock.
+4. RERA Escrow Bank Account Proof: Official bank statement page confirming the destination account matches the registered RERA escrow portal exactly.
+5. Stamped Payment Receipts: Digitally generated, stamped fiscal confirmations provided by INDIS within 48 hours of every fund transfer.
+6. Registered Agreement for Sale (ATS): The primary bilateral contract detailing specifications, layout maps, and mutual liabilities, registered at the sub-registrar office.
+7. Custom Milestone Addendum / Rider: A legally binding amendment drafted by your lawyer and attached to the ATS, specifying that your upfront downpayment is safely tied to internal finishing protections.
+
+---
+
+#### 🔑 STAGE 3: POSSESSION, TAXES, & ABSOLUTE OWNERSHIP (THE FINAL STAGE)
+Documents required when construction wraps up and you take physical delivery of your home.
+
+8. Occupancy Certificate (OC): Issued by the GHMC certifying Tower B is safe, structurally stable, and fully cleared for permanent utilities. (Never accept keys without this).
+9. Fire Department Final NOC: Clearance proving the active firefighting grids, terrace rings, and smoke sensors in Tower B are fully functional.
+10. No-Dues Certificate: A formal financial clearance from INDIS confirming you have zero outstanding balances on base price, GST, amenities, or corpus funds.
+11. Possession Letter: The developer's formal declaration handing the physical management, keys, and access of the flat over to you.
+12. Absolute Sale Deed (Conveyance Deed): The ultimate title document registered at the local Sub-Registrar Office, permanently transferring the Undivided Share of Land (UDS) and the apartment structure into your personal name.
+
